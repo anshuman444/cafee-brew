@@ -10,7 +10,6 @@
 
 A modern, fully responsive coffee shop landing page for **Coffee & Joy - Zenbrew**, built with Next.js 15, React, TypeScript, and TailwindCSS. This project is designed for learning and instruction: it showcases the App Router, client and server components, advanced animations (GSAP, Framer Motion, Locomotive Scroll), SEO metadata, and a component-based structure you can reuse in other projects.
 
-- **Live Demo:** [https://coffeeshop-ui-1.vercel.app/](https://coffeeshop-ui-1.vercel.app/)
 
 ![Screenshot 2024-09-13 at 01 47 46](https://github.com/user-attachments/assets/0540cd31-1d11-4865-9f6b-bfa3577a48a6) ![Screenshot 2024-09-13 at 01 48 08](https://github.com/user-attachments/assets/1c53b42c-90fd-4faf-9841-4829ff9ca684) ![Screenshot 2024-09-13 at 01 48 43](https://github.com/user-attachments/assets/c6351c18-0505-4988-8393-ed4028379308) ![Screenshot 2024-09-13 at 01 49 07](https://github.com/user-attachments/assets/079eb742-a55e-474a-aafb-153e0789346b) ![Screenshot 2024-09-13 at 01 49 27](https://github.com/user-attachments/assets/5ccf96ea-f9ba-41d8-85b9-1ac3e117b785) ![Screenshot 2024-09-13 at 01 51 04](https://github.com/user-attachments/assets/bef41b9a-4e79-4332-bab5-23d8617f3998) ![Screenshot 2024-09-13 at 01 51 58](https://github.com/user-attachments/assets/18bbac92-6dfa-4f67-b3ea-1a635c920d68)
 
